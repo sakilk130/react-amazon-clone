@@ -30,6 +30,7 @@
   background-color: #f0c14b;
   border: 1px solid;
   border-color: #a88734 #9c7e31 #846a29;
+  cursor: pointer;
 }
 .product__info {
   height: 100px;
